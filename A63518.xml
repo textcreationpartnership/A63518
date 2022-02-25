@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True Englishman's choice of Parliament-men in answer to a paper intituled, The danger of mercenary Parliaments : with short observations what persons ought chiefly to be avoided in elections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63518</idno>
+            <idno type="STC">Wing T2698</idno>
+            <idno type="STC">ESTC R12416</idno>
+            <idno type="EEBO-CITATION">13800411</idno>
+            <idno type="OCLC">ocm 13800411</idno>
+            <idno type="VID">101929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101929)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True Englishman's choice of Parliament-men in answer to a paper intituled, The danger of mercenary Parliaments : with short observations what persons ought chiefly to be avoided in elections.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 12.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Toland, John, 1670-1722. --  Danger of mercenary parliaments.</term>
+               <term>England and Wales. --  Parliament --  Elections.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101929:1"/>
+            <pb facs="tcp:101929:1"/>
+            <p>THE True <hi>Engliſhman</hi>'s Choice OF <hi>Parliament-Men.</hi> IN Anſwer to a Paper Intituled, THE DANGER OF <hi>Mercenary Parliaments.</hi>
+            </p>
+            <p>WITH Short Obſervations what Perſons ought chiefly to be avoided in Elections.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A. Baldwin</hi> at the <hi>Oxford-Armes</hi> in <hi>Warwick-Lane.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101929:2"/>
+            <pb n="1" facs="tcp:101929:2"/>
+            <head>THE True <hi>Engliſhman</hi>'s Choice OF <hi>Parliament-Men.</hi> In Anſwer to a Paper Entituled, THE <hi>Danger of Mercenary Parliaments.</hi>
+            </head>
+            <p>THAT the well Meaning People of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> may not be impoſed on, by the Trea<g ref="char:EOLhyphen"/>cherous Diſguiſes of Men of Foriegn Al<g ref="char:EOLhyphen"/>legiance, either to the <hi>Shadow</hi> of a King, or the <hi>Idol</hi> at <hi>Rome;</hi> 'twill be requiſite to detect that Specious Addreſs to 'em, which, with pretence of cautioning them againſt <hi>Mercenary Parliaments,</hi> would make way for ſuch Perſons as loſt their pre<g ref="char:EOLhyphen"/>ferments upon the Revolution, or expect greater by a Change: As if theſe were more fit to be Truſted than they, <hi>who are now poſſeſs'd of any Places and Pre<g ref="char:EOLhyphen"/>ferments depending upon the Gift and Pleaſure</hi> of His preſent <hi>Majeſty;</hi>
+               <note place="margin">Page 1.</note> whoſe <hi>Gift</hi> and <hi>Pleaſure</hi> muſt be ſuppos'd, tho' not nam'd.</p>
+            <pb n="2" facs="tcp:101929:3"/>
+            <p>What is the <hi>Nature</hi> of our <hi>Parliaments,</hi> and the Intereſt of <hi>England</hi> in the following choice, I ſhould think not to be well underſtood by one, who is no better acquainted with the Proprieties of the <hi>Engliſh</hi> Tongue than to ſuppoſe, that new Laws are neceſ<g ref="char:EOLhyphen"/>ſary among other ends,<note place="margin">
+                  <hi>Pag. 1.</hi> And Abrogating ſuch as were found burden<g ref="char:EOLhyphen"/>ſum and obſo<g ref="char:EOLhyphen"/>lete.</note> for <hi>Abrogating</hi> ſuch as were <hi>Obſolete,</hi> and ſo fell of themſelves; who thinks he's very Rhetorical in talking of <hi>the Oppreſſion of thoſe de<g ref="char:EOLhyphen"/>vouring Harpies, who would tear of the yet green and flouriſhing Laurels from King</hi> William's <hi>Majeſtick Brows;</hi>
+               <note place="margin">Page 8.</note> and, to uſe his own Phraſe, <hi>whoſe diligence to ſupport</hi> his Party,<note place="margin">Does infer their thoughts, that the Majority, <hi>&amp;c.</hi>
+               </note>
+               <hi>Infers his thoughts, that the Majority of Electors are capable of being impos'd upon in ſuch a Groſs and <g ref="char:V">Ʋ</g>nexampled manner,</hi> as to take meaſures for the preſerving their Religion, Lives, Liberties and Eſtates from them, who have an apparent de<g ref="char:EOLhyphen"/>ſign to deſtroy that Government, which by God's wonderful Providence, and Favour to it, has ſecured thoſe invaluable Bleſſings, notwithſtanding the al<g ref="char:EOLhyphen"/>moſt inſuperable Difficulties, from Domeſtick Divi<g ref="char:EOLhyphen"/>ſions, the viſible effects of the <hi>old Popiſh Plot</hi> in the Corruption of the Coin; and the mighty force and artifices of an Enemy, againſt whom, none but His preſent Majeſty, with an <hi>Engliſh</hi> Parliament and Sol<g ref="char:EOLhyphen"/>diers, could have made Head.</p>
+            <p>When ſo great a number of the Gentry of this Land were bribed by their Expectations of Rewards for joyning with the Enemy, or not oppoſing him; that Ninety odd of the Houſe of Commons, and ſome Men of conſiderable Eſtates, refuſed to enter into a <hi>Voluntary Aſſociation</hi> for Mutual Defence againſt an impending Invaſion; 'twas certainly happy for the
+<pb n="3" facs="tcp:101929:3"/>Nation, that many were by Places under this Go<g ref="char:EOLhyphen"/>vernment oblig'd, not only in Gratitude, but by immediate Intereſt, to ſecure to themſelves thoſe ad<g ref="char:EOLhyphen"/>vantages for which others gaped, and which they expected to gain by Sacrificeing their Religion, and their Country, to a fond Ambition of making up the Train of a <hi>Conquering Invader.</hi>
+            </p>
+            <p>Whoever conſiders impartially, will find, that 'twas as fortunate for <hi>England,</hi> that numbers had <hi>Places and Preferments depending upon the Pleaſure</hi> of this Government, as it has been, that the <hi>Church-Lands</hi> were, upon the Diſſolution of <hi>Religious Houſes,</hi> falſely ſo call'd, diſtributed among the <hi>Nobility</hi> and <hi>Gentry;</hi> without which, in all probability, <hi>England</hi> would before now have Groan'd under a Popiſh Yoak: The Reſtitution of which, we may well take to be his deſire, who plainly Inſinuates, that all Perſons, without diſtinction, who are now poſſeſs'd of any Places and Preferments depending on His Majeſt'y pleaſure,<note place="margin">Pag. 1.</note> are to be refuſed upon the Com<g ref="char:EOLhyphen"/>petition for Members of the enſuing Parliament. But what Rule <hi>inf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs this his thoughts,</hi> that all theſe are Writers <hi>Delinquents,</hi> I cannot underſtand,<note place="margin">Pag. 2.</note> un<g ref="char:EOLhyphen"/>leſs he will have it to be a Crime to accept of any Reward for paſs'd Services to the preſent Govern<g ref="char:EOLhyphen"/>ment, or Engagement to future.</p>
+            <p>Any Man may judge, whether he has not a ſtrong Affection for the late King <hi>James</hi>'s Reign,<note place="margin">Pag. 3.</note> who ſeems wholly to forget what Encouragement<note n="*" place="margin">Yet cannot we ſay, that his miſmanagement is to be aſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to the corrupti<g ref="char:EOLhyphen"/>on of any Parli<g ref="char:EOLhyphen"/>ament Sitting in his time.</note> his Parliament gave to thoſe arbitrary proceedings which were to make way for Popery, by their Slaviſh Silence after his illegal raiſing of Taxes, tho' the
+<pb n="4" facs="tcp:101929:4"/>Grant of them had expired: And however, he ſhews a Manifeſt diſſaffection to this Government, in run<g ref="char:EOLhyphen"/>ning a falſe and malicious parallel between the Par<g ref="char:EOLhyphen"/>liaments of King <hi>Charles</hi> II. of <hi>moſt Pious Memory,</hi> and thoſe which have concurred with His <hi>preſent Majeſty,</hi> in preſerving that <hi>Conſtitution,</hi> which they in that Debauched Reign Laboured by all means poſſible to deſtroy.</p>
+            <p>While all <hi>Engliſhmen</hi> juſtly abhor thoſe, who re<g ref="char:EOLhyphen"/>ceived Places or Penſions to ſell their Country; they cannot but look upon advantages under his <hi>preſent Majeſty,</hi> as ſo many Enſigns of Honour and Recom<g ref="char:EOLhyphen"/>mendations to their Choice; and ſurely they can<g ref="char:EOLhyphen"/>not be forgetful of the bold ſteps in late Reigns to<g ref="char:EOLhyphen"/>wards advancing Popery, by the making Laws to ruine the Diſſenters only in the firſt place; the open Threats and Violence, to deprive Men of that free<g ref="char:EOLhyphen"/>dom of Elections, which is an eſſential part of our Conſtitution of the main Security for the reſt; and that <hi>Trayterous Surrender of Charters,</hi> which look all choice from the People, and placed in a <hi>Popiſh-Court.</hi>
+            </p>
+            <p>Are theſe the Men to be prefer'd before thoſe, who have merited Officers, by ſignalizing them<g ref="char:EOLhyphen"/>ſelves in the War; thoſe particularly, who at the Siege of <hi>Namur,</hi> raiſed the <hi>Engliſh</hi> Glory to a grea<g ref="char:EOLhyphen"/>ter height under King <hi>William,</hi> than ever it was be<g ref="char:EOLhyphen"/>fore under any of our moſt Victorious Kings? And to me it ſeems, that no leſs praiſe and retribution is due to them, who in Counſels have Fought and Conquer'd Crafty Leaders, exerciſed in all the Frauds and Tricks of former Reigns, and have given
+<pb n="5" facs="tcp:101929:4"/>convincing Proofs,<note place="margin">
+                  <hi>Pag. 3.</hi> 'Tis this has chang'd the ve<g ref="char:EOLhyphen"/>ry Nature of <hi>Engliſh</hi> Men, and of Valiant, made them Cowards of E<g ref="char:EOLhyphen"/>loquent Dumb. <hi>Pag. 7.</hi>
+               </note> that the <hi>Nature</hi> of <hi>Engliſhmen</hi> is not changed in them, but that their Native valour, and unforced eloquence, have diſtinguiſhed them in the preſervation of <hi>England,</hi> and thereby Enti<g ref="char:EOLhyphen"/>tuled them to his <hi>Majeſty's</hi> favour.</p>
+            <p>Very few I dare ſay, will agree with this <hi>Gentle<g ref="char:EOLhyphen"/>man,</hi> that whoever ſhould Vote for <hi>any one Perſon ſo qualifyed, as much as in him lies makes a Complement of all the Liberties</hi> of England, <hi>to the inſatiable Avarice and Ambition of Stateſmen and Court Miniſters:</hi> Nor can he be thought a Friend to <hi>England,</hi> who would make oppoſing the <hi>preſent Court</hi> and <hi>Miniſtry,</hi> the <hi>Characteriſtic</hi> of a true lover of his Country, be<g ref="char:EOLhyphen"/>cauſe 'twas ſo when the <hi>Court</hi> was in a <hi>Foreign In<g ref="char:EOLhyphen"/>tereſt,</hi> and had deſigns which could not be brought about, but by <hi>the ſubverſion of the Conſtitution;</hi> whereas the very being as well as ſecurity of <hi>this Court,</hi> depends upon the Reſtoring and Supporting the <hi>Fundamental Liberties</hi> of the Nation; and above all the reſt, that of <hi>free Elections.</hi>
+            </p>
+            <p>The falſe Colours in his Compariſon are ſo groſs, that there's the leſs need of expoſing thoſe, with which this warm Writer would deface the proceed<g ref="char:EOLhyphen"/>ings of the laſt Parliament, to which it may ſeem not improper to apply that of our <hi>Saviour, for which of</hi> their <hi>good deeds would</hi> he <hi>Stone them?</hi>
+            </p>
+            <p>The <hi>whole Houſe of Commons</hi> he charges with <hi>Eat<g ref="char:EOLhyphen"/>ing their own Words,</hi>
+               <note place="margin">Pag. 4.</note> 
+               <hi>and Countervoting what they had juſt before reſolved on:</hi> but the inſtances are left to imagination. Suppos'd <hi>Mercenary Members</hi> are ſaid to have Voted <hi>their fellow Criminals innocent;</hi> but the <hi>Perſons,</hi> and <hi>Proofs</hi> of their Crimes, are to ſeek.
+<pb n="6" facs="tcp:101929:5"/>The not paſſing a Bill for incapaciating Members of Parliament to bear Offices, is one great aggravati<g ref="char:EOLhyphen"/>on; as if either to have an Office, or to be a <hi>Parli<g ref="char:EOLhyphen"/>ament Man</hi> in King <hi>William</hi>'s Reign, were an offence, to be puniſhed by a new Law. While the Vote of an Houſe of <hi>Commons,</hi> or <hi>Bill</hi> there, is by him Exalted to an Act of Parliament, their applauding His <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi>'s Bounty to a Perſon, who has eminently <hi>ſer<g ref="char:EOLhyphen"/>ved the Publick,</hi> is made a Criminal approbation of the miſapplying what had been <hi>ſet apart for the pub<g ref="char:EOLhyphen"/>lick Service;</hi> tho' 'twill be difficult for him to ſhew, that the Grant was of any thing ſo much as intend<g ref="char:EOLhyphen"/>ed to be appropriated; and tho' in the intention de<g ref="char:EOLhyphen"/>clared, there was an Expreſs Reference to His <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi>'s Pleaſure, to Reward ſuch as he ſhould judge deſerving. And yet if his powerful Art of perver<g ref="char:EOLhyphen"/>ting can ſucceed, the Vote of the Houſe of <hi>Commons</hi> upon this occaſion, ſhall <hi>ſtand recorded in their own Journals to the never-dying Infamy of that Mercenary Aſſembly,</hi> as he calls them. The Men of <hi>Peacea<g ref="char:EOLhyphen"/>ble Diſpoſitions</hi> and <hi>conſiderable Eſtates,</hi>
+               <note place="margin">Pag. 4.</note> who were for a <hi>ſufficient</hi> force to maintain the <hi>Peace,</hi> and <hi>their Eſtates,</hi> againſt Foreign and Domeſtick Enemies, are ſuppoſed to have turn'd <hi>Villains</hi> for pay. The <hi>Ad<g ref="char:EOLhyphen"/>mirals</hi> are accuſed for their commendable Imparti<g ref="char:EOLhyphen"/>ality,<note place="margin">Ib. Of Honeſt Men Villains.</note> in confeſſing, that the Nation could not be defended without <hi>Land</hi> as well as Sea Forces, knowing from Divine Authority, that the <hi>Eye can-cannot ſay to the Hand, there's no need of you.</hi>
+            </p>
+            <p>This is the ſubſtance of the Arguments,<note place="margin">Pag. 4.</note> that <hi>bare<g ref="char:EOLhyphen"/>fac'd</hi> and <hi>openly avowed Corruption,</hi> had <hi>infatuated our Prudence, ſtagger'd our Conſtancy, Sullied our Re<g ref="char:EOLhyphen"/>pulation,</hi>
+               <pb n="7" facs="tcp:101929:5"/>and <hi>Introduced</hi> a Total Defection from all rue <hi>Engliſh Principles.</hi>
+            </p>
+            <p>Which Imputation will more juſtly fall upon thoſe <hi>Common-Wealths-Men,</hi> or other pretended <hi>Patri<g ref="char:EOLhyphen"/>ots,</hi> who, to uſe ſome of this Gentlemans Elegancies, <hi>From their Infancie had Imbibed no other notions than what conduced to the Publick Safety, whoſe Principles were further improved and confirmed, by the Advanta<g ref="char:EOLhyphen"/>ges of a ſuitable Converſation;</hi> And yet are now become <hi>Renegades</hi> to King <hi>James</hi>'s Party, as if the Reſtoring him were the moſt proper means <hi>Con<g ref="char:EOLhyphen"/>duceing to the Publick Safety:</hi> But ſurely all that wiſh well to <hi>England,</hi> will apprehend Miſchief to be at the Bottom, when <hi>Herod</hi> and <hi>Pilat</hi> lay aſide their old Enmyties.</p>
+            <p>Nor can the People of <hi>England,</hi> be unmindful of the fundamental Maxim of Authors, now cryed up by the <hi>Jacobites,</hi> as well as the <hi>Com<g ref="char:EOLhyphen"/>mon-Wealths Men, that the Ballance of Power fol<g ref="char:EOLhyphen"/>lows the Ballance of Property:</hi> And therefore they will be glad to find His Majeſty to ſecure the Ballance to his Side, by diſpoſing the Offices of the Kingdom, to His and the Nations Friends: Their main Trouble in this matter, is to obſerve the Oppoſition to the National Intereſt, to be ſtrengthned and encouraged by them, who with their falſe Politicks, pretend, that they who are in a Plot againſt this Government, are to be bought off.</p>
+            <p>If any one numerous Family can render them<g ref="char:EOLhyphen"/>ſelves ſo formidable by their Union, as to make it ſeem His Majeſties Intereſt, to give them the
+<pb n="8" facs="tcp:101929:6"/>Choice of the moſt profitable Places; how ſtrong would our preſent Eſtabliſhment be, if none were admitted into any Employment, who had not giv<g ref="char:EOLhyphen"/>en clear Proof of his Zeal for the Publick; and 'twere evidently known, there could be no Temptation of that kind to diſſerve it?</p>
+            <p>But methinks this <hi>Gentleman,</hi> ſhews as mean an opinion of the underſtandings of <hi>Engliſhmen,</hi> as he does of His <hi>Majeſties,</hi> while he hopes to wheadle them into a perſwaſion, that <hi>Courts have been the ſame in all Ages;</hi> and His <hi>Majeſty</hi> into a confidence of his Zeal for his <hi>Majeſties</hi> Honour and Service, the plain drift of whoſe paper is to perſwade Men, that the only danger to the Conſtitution is from them, who are intereſted in the Preſervation of His <hi>Majeſties</hi> Perſon and Government: Nor does he Scrupple to aſſert, <hi>that this is the laſt Struggle and effort the People of</hi> England <hi>have left them for their Properties;</hi> as if Property had been notoriouſly invaded by the King and his Miniſters: But in Truth the Struggle which this Perſon muſt mean, can be no other, than for a new diſtribution of Property upon the Change, either of the form of the Government, or of the King: Whoſe Reign is as much reflected on as <hi>King Charles</hi>'s, which he calls <hi>Profligate</hi> and <hi>Villanous:</hi>
+               <note place="margin">Pag. 2. Pag. 7.</note> And ſince he is Poſitive, that <hi>one Seſſion more of the laſt Parliament, would infallibly have ruin'd our Conſtitution;</hi> 'tis no Queſtion whoſe <hi>Conſent</hi> would (according to this Suggeſtion) <hi>infallibly</hi> have contributed to it's Ruine.</p>
+            <pb n="9" facs="tcp:101929:6"/>
+            <p>Tho' the Deliverance from <hi>King James</hi> and <hi>Popery,</hi> is much more than a Pretence, it cannot but be underſtood who is included in his Reflective Opinion,<note place="margin">
+                  <hi>Pag. 6.</hi> In this Senſe, I am of their Opinion that, <hi>&amp;c.</hi>
+               </note> * <hi>That we are not quite delivered from the fear of</hi> King James, <hi>who muſt be made the In<g ref="char:EOLhyphen"/>ſtrument of our Slavery by thoſe very Perſons, who pretend their greateſt Merit to conſiſt,</hi> in delivering us from him.</p>
+            <p>But if his opinion were no more dangerous than his reaſoning, it would do no great Hurt; 'tis certain many cannot be wrought up by his <hi>war<g ref="char:EOLhyphen"/>mth</hi> to believe, that King James was a meer <hi>Bug<g ref="char:EOLhyphen"/>bear,</hi> while his pretended Title was ſupported by the Arms of <hi>France;</hi>
+               <note place="margin">
+                  <hi>Pag. 6.</hi> Is it the Fear of <hi>King James</hi> that makes us content he ſhould Live ſo near us.</note> becauſe little danger is now apprehended from his living under the Protection of that <hi>King;</hi> which cannot be extended further than his Perſon, but by a Violation of that Peace, which all <hi>Europe</hi> is concerned to maintain.</p>
+            <p>But he who repreſents the former uſe of the juſt fear of <hi>King James,</hi> as a <hi>vile Art and Practice to Rack the Nation with Taxes,</hi> cannot but be thought deſervedly to incur the Name of <hi>Conſpi<g ref="char:EOLhyphen"/>rator,</hi> which he ſo freely beſtows upon thoſe Members of the laſt Parliament, who truly me<g ref="char:EOLhyphen"/>rited of their Country, by making others ſenſible of the Danger they were in, while <hi>King James</hi> had hopes of Landing upon us, with great part of the force of <hi>France.</hi>
+            </p>
+            <p>Tho' 'tis evident who have been the <hi>Conſpi<g ref="char:EOLhyphen"/>rators;</hi> I muſt confeſs the Word <hi>Apoſtate,</hi> cannot be applyed with much certainty, till 'tis known from what <hi>Principle</hi> or <hi>Party</hi> they are fallen:
+<pb n="10" facs="tcp:101929:7"/>I ſhould be glad, it 'twere poſſible, that ſuch a Parliament were choſen, wherein every Member were, as he expreſſes himſelf, <hi>under no Temptation; and acted by no other Motives, but the real and true intereſt of his Majeſty, and his Dominions.</hi>
+            </p>
+            <p>But can he expect to be thought ſincere, in his pretended deſire, that their united Intereſt ſhould thrive, who takes ſuch pains to divide them, and to diſable thoſe who have given Proof of their Abilities and Zeal, to ſerve the <hi>King</hi> as the <hi>Common Parent</hi> of their Country?</p>
+            <p>Againſt this few can be thought more openly to conſpire, than they who are ſo free in Cal<g ref="char:EOLhyphen"/>ling others <hi>Conſpirators,</hi>
+               <note place="margin">
+                  <hi>Pag. 5.</hi> Theſe Apoſtates pretend to va<g ref="char:EOLhyphen"/>lue themſelves upon that moſt deſtructive pro<g ref="char:EOLhyphen"/>ject of <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>quer Bil<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </note> and <hi>Apoſtates;</hi> for being eminently inſtrumental in Supplying the Neceſ<g ref="char:EOLhyphen"/>ſities of the Publick, and in effect encreaſing the <hi>Species</hi> of money at a time, when ſo much could not but lye Dead in the Mint: nothing is more certain, than that this <hi>Expedient</hi> was very beneficial to the Publick; tho' the exorbitant a<g ref="char:EOLhyphen"/>varice of moneyed Men, turn'd it to the preju<g ref="char:EOLhyphen"/>dice of many particular Perſons.</p>
+            <p>But this Gentleman muſt have a great opinion of the Power of his <hi>Rhetorick,</hi> if he thinks his Invectives againſt His <hi>Majeſtie's</hi> faithfull Subjects and Servants, can Charm the <hi>Citizens</hi> and <hi>Burgeſſes</hi> into a forgetfullneſs; who were the Men that, before the diſcovery of the <hi>Aſſaſſination Plot,</hi> advanced ſo far towards the total Subverſion of that Part of the Conſtitution, which Preſerves the Ballance of the Government, by a truely Popular Intereſt, in that Freedom which <hi>Cittes</hi> and <hi>Boroughs</hi> have had, from
+<pb n="11" facs="tcp:101929:7"/>Ages long ſince paſſed, for Chuſeing fit Perſons of their own Bodies, without Confineing them to the Landed Gentry.</p>
+            <p>'Tis well kown who were ſo vain as to make their boaſts, that they ſhould keep out the <hi>Green-Apron Men:</hi> Therefore 'twill be but a juſt return, for the <hi>Green-Apron Men</hi> to keep them, from the like Power of Inſulting over them: Nor is it to be doubted, but they will, in the moſt proper Method, expreſs their Gratitude to Mr. <hi>Montague,</hi> Sir <hi>Thomas Littleton,</hi> Mr. <hi>Clerk,</hi> Sir <hi>Joſeph Tily</hi> and others, who, if Reaſon could have prevailed with Men obſtinately bent upon Deſtroying the <hi>Conſtitution;</hi> would have Argued them out of their Pernicious Attempt, for a Form of Government more near an <hi>Oligarchy,</hi> to bring it by degrees to a <hi>French</hi> or <hi>Turkiſh Monar<g ref="char:EOLhyphen"/>chy.</hi>
+            </p>
+            <p>Since Mankind cannot be thought wholy Diſin<g ref="char:EOLhyphen"/>tereſted, and is ſubject to Temptations of ſeveral kinds; the ſhort Queſtion to be Conſidered upon this <hi>Election</hi> is.</p>
+            <p>Who are to be Choſen as moſt likely to Anſwer the End, which this <hi>Gentleman</hi> would be thought to Propoſe, <hi>The true and real Intereſt of His Majeſty and His Dominions;</hi> they whoſe Principles or Ex<g ref="char:EOLhyphen"/>pectations Byaſs them towards the <hi>Late King,</hi> or other Change of the <hi>Eſtabliſh'd Government;</hi> or they whoſe Value for that <hi>Conſtitution</hi> which King <hi>William</hi> Reſtored, that <hi>Religion</hi> which he Reſcued, and their own ſhare in the Benefits of His Reign, Incite them to a Vigorous purſuit of the ends, for which they are Choſen by <hi>Engliſh Pro<g ref="char:EOLhyphen"/>teſtants.</hi>
+            </p>
+            <pb n="12" facs="tcp:101929:8" rendition="simple:additions"/>
+            <p>The Choice will be obvious, when Men have due<g ref="char:EOLhyphen"/>ly conſidered who ought to be refuſed; and I doubt not but <hi>theſe Perſons</hi> will generally be Rejected with Scorn.</p>
+            <list>
+               <item>1. They who were for the <hi>Common-Wealth</hi> of a <hi>Regency.</hi>
+               </item>
+               <item>2. <hi>Non-Aſſociators,</hi>
+               </item>
+               <item>3. <hi>Non-Jurors,</hi> or, <hi>Late Swearers</hi> to this Go<g ref="char:EOLhyphen"/>vernment; after the Battle at the <hi>Boyn,</hi> or the Peace which <hi>France,</hi> had wrought <hi>Hipocritical Con<g ref="char:EOLhyphen"/>verſions.</hi>
+               </item>
+               <item>4. The Inſtruments of the <hi>Tyrany</hi> and <hi>Uſurpations</hi> of former <hi>Reigns.</hi>
+               </item>
+               <item>5. Perſons juſtly ſuſpected to have been in the Plot againſt this Government; or aſſiſting to it, or conniving at it.</item>
+               <item>6. Such as have loſt Places for adhearing to the late <hi>King.</hi>
+               </item>
+               <item>7. They who have manifeſted a deſire of getting Places, or otherwiſe improving their Fortunes, upon the letting in of <hi>Popery,</hi> or <hi>Popiſh-Powers.</hi>
+               </item>
+               <item>8. They who were for Depriveing the <hi>Cities</hi> and <hi>Boroughs,</hi> of the <hi>Fundamental Liberty</hi> of Chuſeing <hi>Repreſentatives</hi> from among themſelves: And for defeating <hi>Elections</hi> in the <hi>Counties,</hi> after they had been made; by new contrived <hi>Qualifications,</hi> of doubtful conſtruction.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 3 Line 20. Read Majeſtie's, Ib. l. 22. r. this Writer's d. his, l. 23. d. Writer's. p. 4. l. 9. r. true <hi>Engliſhmen,</hi> l. 19. r. and the main, l. 20. r. took, l. 21. r. placed it, l. 24. r. Offices.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
